@@ -9,7 +9,7 @@ Next.js, Tailwind, GraphQL, Shopify , Headless UI and SwiperJS
 # Screenshots :
 
 *Home*
-![Home](./screenshots/homepage.jpeg)
+![Home](./screenshots/homepage.png)
 
 *Product*
 ![Post](./screenshots/single-product.png)
