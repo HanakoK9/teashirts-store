@@ -1,1 +1,18 @@
-Ecommerce store made using Shopify-GraphQL, Next js and Tailwind
+## TeaShirts
+
+anime tshirts store project
+
+# Tech Used :
+
+Next.js, Tailwind, GraphQL, Shopify , Headless UI and SwiperJS
+
+# Screenshots :
+
+*Home*
+![Home](./screenshots/homepage.jpeg)
+
+*Product*
+![Post](./screenshots/single-product.png)
+
+*Contact*
+![Signup](./screenshots/contact-form.png)
